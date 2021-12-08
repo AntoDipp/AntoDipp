@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AntoDipp</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antodipp&label=Profile%20views&color=ff0000&style=flat" alt="antodipp" /> </p>
 
