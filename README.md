@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Duckie**
 
-- 🌱 I’m currently learning **JavaScript, HTML and C#**
+- 🌱 I’m currently learning **JavaScript, React Native and Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
