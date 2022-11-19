@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antodipp" alt="antodipp" /></a> </p>
 
-- 🔭 I’m currently working on **Duckie**
+- 🔭 I’m currently working on **a super secret app 👀**
 
 - 🌱 I’m currently learning **JavaScript, React Native and Kotlin**
 
